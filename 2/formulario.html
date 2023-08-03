@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilos.css">
+    <script src="js/EnviarForm.js" defer></script>
+    <title>Formulario Taller Digital</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Sign Up</h1>
+        <p>Want to sign up fill out this form!</p>
+        <form id="signupForm">
+            <label for="firstName">First Name</label>
+            <input type="text" id="firstName" name="firstName" placeholder="Jamie" required>
+            <label for="lastName">Last Name</label>
+            <input type="text" id="lastName" name="lastName" placeholder="Peak" required>
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required>
+            <label>
+                <input type="radio" id="acceptTerms" name="acceptTerms" required>
+                I accept the terms of use
+            </label>
+            <button type="submit">Sign Up</button>
+        </form>
+        <div id="message"></div>
+    </div>
+</body>
+</html>

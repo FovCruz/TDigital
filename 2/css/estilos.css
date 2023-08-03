@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(to left bottom, #72bcd4, #ff8bc5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px 30px 50px 30px;
+    box-shadow: 0px -6px 41px -11px rgba(0,0,0,0.7);
+    width: 400px;
+    height: 600px;
+    text-align: left;
+}
+
+h1 {
+    color: #484848; 
+}
+p {
+    color: rgb(129, 129, 129);
+    margin-top: -15px;
+    margin-bottom: 35px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 20px;
+    color: #8e8e8e;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+    margin-top:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input::placeholder {
+    color: #3a3a3a; 
+    font-size: 20px;
+    font-family:'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+button {
+    background: linear-gradient(to bottom, #35cdff, #00a7df);
+    color: rgb(22, 22, 22);
+    border: solid 1px #0081ab ;
+    cursor: pointer;
+    padding: 15px 0px 15px 0px;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    width: 36%; 
+    
+}
+
+#acceptTerms {
+    margin-top: 30px;
+}

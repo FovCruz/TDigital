@@ -1,0 +1,1 @@
+SELECT 'id', 'name' FROM tbl_comuna LEFT JOIN tbl_region ON tbl_comuna.region_id = tbl_region.id;
