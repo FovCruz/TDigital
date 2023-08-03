@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<comunas>
+  <comuna>
+    <id>83</id>
+    <nombre>Colina</nombre>
+  </comuna>
+  <comuna>
+    <id>84</id>
+    <nombre>Lampa</nombre>
+  </comuna>
+  <comuna>
+    <id>85</id>
+    <nombre>Tiltil</nombre>
+  </comuna>
+  <comuna>
+    <id>86</id>
+    <nombre>Santiago</nombre>
+  </comuna>
+  <comuna>
+    <id>87</id>
+    <nombre>Vitacura</nombre>
+  </comuna>
+  <comuna>
+    <id>88</id>
+    <nombre>San Ram&#x251C;&#x2502;n</nombre>
+  </comuna>
+  <comuna>
+    <id>89</id>
+    <nombre>San Miguel</nombre>
+  </comuna>
+  <comuna>
+    <id>90</id>
+    <nombre>San Joaqu&#x251C;&#xA1;n</nombre>
+  </comuna>
+  <comuna>
+    <id>91</id>
+    <nombre>Renca</nombre>
+  </comuna>
+  <comuna>
+    <id>92</id>
+    <nombre>Recoleta</nombre>
+  </comuna>
+  <comuna>
+    <id>93</id>
+    <nombre>Quinta Normal</nombre>
+  </comuna>
+  <comuna>
+    <id>94</id>
+    <nombre>Quilicura</nombre>
+  </comuna>
+  <comuna>
+    <id>95</id>
+    <nombre>Pudahuel</nombre>
+  </comuna>
+  <comuna>
+    <id>96</id>
+    <nombre>Providencia</nombre>
+  </comuna>
+  <comuna>
+    <id>97</id>
+    <nombre>Pe&#x251C;&#x2592;alol&#x251C;&#xAE;n</nombre>
+  </comuna>
+  <comuna>
+    <id>98</id>
+    <nombre>Pedro Aguirre Cerda</nombre>
+  </comuna>
+  <comuna>
+    <id>99</id>
+    <nombre>&#x251C;&#xE6;u&#x251C;&#x2592;oa</nombre>
+  </comuna>
+  <comuna>
+    <id>100</id>
+    <nombre>Maip&#x251C;&#x2551;</nombre>
+  </comuna>
+  <comuna>
+    <id>101</id>
+    <nombre>Macul</nombre>
+  </comuna>
+  <comuna>
+    <id>102</id>
+    <nombre>Lo Prado</nombre>
+  </comuna>
+  <comuna>
+    <id>103</id>
+    <nombre>Lo Espejo</nombre>
+  </comuna>
+  <comuna>
+    <id>104</id>
+    <nombre>Lo Barnechea</nombre>
+  </comuna>
+  <comuna>
+    <id>105</id>
+    <nombre>Las Condes</nombre>
+  </comuna>
+  <comuna>
+    <id>106</id>
+    <nombre>La Reina</nombre>
+  </comuna>
+  <comuna>
+    <id>107</id>
+    <nombre>La Pintana</nombre>
+  </comuna>
+  <comuna>
+    <id>108</id>
+    <nombre>La Granja</nombre>
+  </comuna>
+  <comuna>
+    <id>109</id>
+    <nombre>La Florida</nombre>
+  </comuna>
+  <comuna>
+    <id>110</id>
+    <nombre>La Cisterna</nombre>
+  </comuna>
+  <comuna>
+    <id>111</id>
+    <nombre>Independencia</nombre>
+  </comuna>
+  <comuna>
+    <id>112</id>
+    <nombre>Huechuraba</nombre>
+  </comuna>
+  <comuna>
+    <id>113</id>
+    <nombre>Estaci&#x251C;&#x2502;n Central</nombre>
+  </comuna>
+  <comuna>
+    <id>114</id>
+    <nombre>El Bosque</nombre>
+  </comuna>
+  <comuna>
+    <id>115</id>
+    <nombre>Conchal&#x251C;&#xA1;</nombre>
+  </comuna>
+  <comuna>
+    <id>116</id>
+    <nombre>Cerro Navia</nombre>
+  </comuna>
+  <comuna>
+    <id>117</id>
+    <nombre>Cerrillos</nombre>
+  </comuna>
+  <comuna>
+    <id>118</id>
+    <nombre>Puente Alto</nombre>
+  </comuna>
+  <comuna>
+    <id>119</id>
+    <nombre>San Jos&#x251C;&#xAE; de Maipo</nombre>
+  </comuna>
+  <comuna>
+    <id>120</id>
+    <nombre>Pirque</nombre>
+  </comuna>
+  <comuna>
+    <id>121</id>
+    <nombre>San Bernardo</nombre>
+  </comuna>
+  <comuna>
+    <id>122</id>
+    <nombre>Buin</nombre>
+  </comuna>
+  <comuna>
+    <id>123</id>
+    <nombre>Paine</nombre>
+  </comuna>
+  <comuna>
+    <id>124</id>
+    <nombre>Calera de Tango</nombre>
+  </comuna>
+  <comuna>
+    <id>125</id>
+    <nombre>Melipilla</nombre>
+  </comuna>
+  <comuna>
+    <id>126</id>
+    <nombre>Alhu&#x251C;&#xAE;</nombre>
+  </comuna>
+  <comuna>
+    <id>127</id>
+    <nombre>Curacav&#x251C;&#xA1;</nombre>
+  </comuna>
+  <comuna>
+    <id>128</id>
+    <nombre>Mar&#x251C;&#xA1;a Pinto</nombre>
+  </comuna>
+  <comuna>
+    <id>129</id>
+    <nombre>San Pedro</nombre>
+  </comuna>
+  <comuna>
+    <id>130</id>
+    <nombre>Isla de Maipo</nombre>
+  </comuna>
+  <comuna>
+    <id>131</id>
+    <nombre>El Monte</nombre>
+  </comuna>
+  <comuna>
+    <id>132</id>
+    <nombre>Padre Hurtado</nombre>
+  </comuna>
+  <comuna>
+    <id>133</id>
+    <nombre>Pe&#x251C;&#x2592;aflor</nombre>
+  </comuna>
+  <comuna>
+    <id>134</id>
+    <nombre>Talagante</nombre>
+  </comuna>
+  <comuna>
+    <id>168</id>
+    <nombre>Curic&#x251C;&#x2502;</nombre>
+  </comuna>
+  <comuna>
+    <id>169</id>
+    <nombre>Huala&#x251C;&#x2592;&#x251C;&#xAE;</nombre>
+  </comuna>
+  <comuna>
+    <id>170</id>
+    <nombre>Licant&#x251C;&#xAE;n</nombre>
+  </comuna>
+  <comuna>
+    <id>171</id>
+    <nombre>Molina</nombre>
+  </comuna>
+  <comuna>
+    <id>172</id>
+    <nombre>Rauco</nombre>
+  </comuna>
+  <comuna>
+    <id>173</id>
+    <nombre>Romeral</nombre>
+  </comuna>
+  <comuna>
+    <id>174</id>
+    <nombre>Sagrada Familia</nombre>
+  </comuna>
+  <comuna>
+    <id>175</id>
+    <nombre>Teno</nombre>
+  </comuna>
+  <comuna>
+    <id>176</id>
+    <nombre>Vichuqu&#x251C;&#xAE;n</nombre>
+  </comuna>
+  <comuna>
+    <id>177</id>
+    <nombre>Talca</nombre>
+  </comuna>
+  <comuna>
+    <id>178</id>
+    <nombre>San Clemente</nombre>
+  </comuna>
+  <comuna>
+    <id>179</id>
+    <nombre>Pelarco</nombre>
+  </comuna>
+  <comuna>
+    <id>180</id>
+    <nombre>Pencahue</nombre>
+  </comuna>
+  <comuna>
+    <id>181</id>
+    <nombre>Maule</nombre>
+  </comuna>
+  <comuna>
+    <id>182</id>
+    <nombre>San Rafael</nombre>
+  </comuna>
+  <comuna>
+    <id>183</id>
+    <nombre>Curepto</nombre>
+  </comuna>
+  <comuna>
+    <id>184</id>
+    <nombre>Constituci&#x251C;&#x2502;n</nombre>
+  </comuna>
+  <comuna>
+    <id>185</id>
+    <nombre>Empedrado</nombre>
+  </comuna>
+  <comuna>
+    <id>186</id>
+    <nombre>R&#x251C;&#xA1;o Claro</nombre>
+  </comuna>
+  <comuna>
+    <id>187</id>
+    <nombre>Linares</nombre>
+  </comuna>
+  <comuna>
+    <id>188</id>
+    <nombre>San Javier</nombre>
+  </comuna>
+  <comuna>
+    <id>189</id>
+    <nombre>Parral</nombre>
+  </comuna>
+  <comuna>
+    <id>190</id>
+    <nombre>Villa Alegre</nombre>
+  </comuna>
+  <comuna>
+    <id>191</id>
+    <nombre>Longav&#x251C;&#xA1;</nombre>
+  </comuna>
+  <comuna>
+    <id>192</id>
+    <nombre>Colb&#x251C;&#x2551;n</nombre>
+  </comuna>
+  <comuna>
+    <id>193</id>
+    <nombre>Retiro</nombre>
+  </comuna>
+  <comuna>
+    <id>194</id>
+    <nombre>Yerbas Buenas</nombre>
+  </comuna>
+  <comuna>
+    <id>195</id>
+    <nombre>Cauquenes</nombre>
+  </comuna>
+  <comuna>
+    <id>196</id>
+    <nombre>Chanco</nombre>
+  </comuna>
+  <comuna>
+    <id>197</id>
+    <nombre>Pelluhue</nombre>
+  </comuna>
+  <comuna>
+    <id>336</id>
+    <nombre>Natales</nombre>
+  </comuna>
+  <comuna>
+    <id>337</id>
+    <nombre>Torres del Paine</nombre>
+  </comuna>
+  <comuna>
+    <id>338</id>
+    <nombre>Laguna Blanca</nombre>
+  </comuna>
+  <comuna>
+    <id>339</id>
+    <nombre>Punta Arenas</nombre>
+  </comuna>
+  <comuna>
+    <id>340</id>
+    <nombre>R&#x251C;&#xA1;o Verde</nombre>
+  </comuna>
+  <comuna>
+    <id>341</id>
+    <nombre>San Gregorio</nombre>
+  </comuna>
+  <comuna>
+    <id>342</id>
+    <nombre>Porvenir</nombre>
+  </comuna>
+  <comuna>
+    <id>343</id>
+    <nombre>Primavera</nombre>
+  </comuna>
+  <comuna>
+    <id>344</id>
+    <nombre>Timaukel</nombre>
+  </comuna>
+  <comuna>
+    <id>345</id>
+    <nombre>Cabo de Hornos</nombre>
+  </comuna>
+  <comuna>
+    <id>346</id>
+    <nombre>Ant&#x251C;&#xED;rtica</nombre>
+  </comuna>
+</comunas>
